@@ -1127,11 +1127,11 @@
 
 %% Dissertação de mestrado
 \newcommand{\dissertacao}[1]{%
-  \renewcommand{\PoliTipoDocData}{Dissertação (Mestrado)}
+  \renewcommand{\PoliTipoDocData}{Dissertação (Graduação)}
   \comentario{Dissertação apresentada à Escola
     Politécnica da Universidade de
     São Paulo para obtenção do
-    Título de Mestre em #1.}%
+    Título de Bacharel em #1.}%
 }
 
 %% Tese de doutorado
